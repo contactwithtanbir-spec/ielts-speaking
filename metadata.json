@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Speaking Coach AI",
+  "description": "Practice IELTS Speaking with an AI examiner providing real-time transcripts, band score estimations, and tailored feedback across all four assessment criteria.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
